@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liu-cui)](https://github.com/liu-cui/github-readme-stats)
+[![Awayanan's GitHub stats](https://github-readme-stats.vercel.app/api?username=liu-cui)](https://github.com/liu-cui/github-readme-stats)
+
+![Awayanan's GitHub stats](https://github-readme-stats.vercel.app/api?username=liu-cui&show_icons=true&theme=radical)
+
+![Awayanan's GitHub stats](https://github-readme-stats.vercel.app/api?username=liu-cui&count_private=true)

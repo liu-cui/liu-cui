@@ -14,6 +14,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: liu-cui/liu-cui@main
         env:
+          GITHUB_REPO: github.com/liu-cui/liu-cui
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 
 ![Awayanan's GitHub stats](https://github-readme-stats.vercel.app/api?username=liu-cui&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liu-cui&layout=compact)](https://github.com/liu-cui/github-readme-stats)
+

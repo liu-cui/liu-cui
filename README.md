@@ -4,13 +4,13 @@
 - 世人都晓神仙好，只有娇妻忘不了！君生日日说恩情，君死又随人去了。
 - 世人都晓神仙好，只有儿孙忘不了！痴心父母古来多，孝顺儿孙谁见了？
 
+### GitHub Contributions
+![](assets/github-contribution-grid-snake.svg) 
+
 
 ### GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=liu-cui&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=onedark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liu-cui&layout=compact)
-
-### GitHub Contributions
-![](assets/github-contribution-grid-snake.svg)              
 
 
 ### Languages and Tools

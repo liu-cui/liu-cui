@@ -1,4 +1,5 @@
 name: Generate Snake
+
 on:
   schedule:
     - cron: "0 0 * * *"
@@ -24,4 +25,4 @@ jobs:
         uses: EndBug/add-and-commit@v7.2.1
         with:
           branch: main
-          message: 'Generate Contribution Snake'
+          message: 'Generate Contribution Snake'      

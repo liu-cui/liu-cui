@@ -1,11 +1,9 @@
-<p align="center">
-<p align="center">
-<p align="center">世人都晓神仙好，惟有功名忘不了！古今将相在何方？荒冢一堆草没了。</p>
-<p align="center">世人都晓神仙好，只有金银忘不了！终朝只恨聚无多，及到多时眼闭了。</p>
-<p align="center">世人都晓神仙好，只有娇妻忘不了！君生日日说恩情，君死又随人去了。</p>
-<p align="center">世人都晓神仙好，只有儿孙忘不了！痴心父母古来多，孝顺儿孙谁见了？</p>
-</p>
-</p>
+### Hi, Awayanan :laughing:
+- 世人都晓神仙好，惟有功名忘不了！古今将相在何方？荒冢一堆草没了。
+- 世人都晓神仙好，只有金银忘不了！终朝只恨聚无多，及到多时眼闭了。
+- 世人都晓神仙好，只有娇妻忘不了！君生日日说恩情，君死又随人去了。
+- 世人都晓神仙好，只有儿孙忘不了！痴心父母古来多，孝顺儿孙谁见了？
+
 
 ### GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=liu-cui&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=onedark)

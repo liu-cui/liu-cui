@@ -27,12 +27,3 @@ jobs:
         with:
           branch: main
           message: 'Generate Contribution Snake'
-
-      - name: Update README
-      - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-        with:
-          COMMIT_MSG: 'Specify a custom commit message'
-          MAX_LINES: 1

@@ -9,8 +9,10 @@
 
 
 ### GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=liu-cui&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=onedark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liu-cui&layout=compact)
+[![Awayanan's github stats](https://github-readme-stats.vercel.app/api?username=liu-cui&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liu-cui&hide=javascript,html,css&theme=vue-dark" height="195px" title="Top Langs" alt="Top Langs"/>
+</a>
 
 
 ### Languages and Tools

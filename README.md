@@ -1,16 +1,12 @@
 ### Hi, I command thee, kneel :laughing:
-<! -- 
-- 世人都晓神仙好，惟有功名忘不了！古今将相在何方？荒冢一堆草没了。
+<!-- - 世人都晓神仙好，惟有功名忘不了！古今将相在何方？荒冢一堆草没了。
 - 世人都晓神仙好，只有金银忘不了！终朝只恨聚无多，及到多时眼闭了。
 - 世人都晓神仙好，只有娇妻忘不了！君生日日说恩情，君死又随人去了。
-- 世人都晓神仙好，只有儿孙忘不了！痴心父母古来多，孝顺儿孙谁见了？
--->
+- 世人都晓神仙好，只有儿孙忘不了！痴心父母古来多，孝顺儿孙谁见了？-->
 
-<! -- 
-Now, here, you see, it takes all the running you can do, to keep in the same place.If you want to get somewhere else, you must run at least twice as fast as that!
--->
+<!-- Now, here, you see, it takes all the running you can do, to keep in the same place.If you want to get somewhere else, you must run at least twice as fast as that! -->
 
-Nothing that meaning is easy. Easy doesn't enter into grown-up life. Get busy living or get busy dying.
+>Nothing that meaning is easy. Easy doesn't enter into grown-up life. Get busy living or get busy dying.
 
 
 

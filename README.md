@@ -10,10 +10,10 @@
 
 
 
-
+<!--
 ### GitHub Contributions
 ![](assets/github-contribution-grid-snake.svg) 
-
+-->
 
 ### GitHub Stats
 ![Awayanan's github stats](https://github-readme-stats.vercel.app/api?username=liu-cui&show_icons=true)
